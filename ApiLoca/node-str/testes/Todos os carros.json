@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "Marca": "COROLLA",
+    "Placa": "IPB0234",
+    "Cor": "Cinza"
+  },
+  {
+    "id": 2,
+    "Marca": "HILUX",
+    "Placa": "JVZ9857",
+    "Cor": "Amarelo"
+  },
+  {
+    "id": 3,
+    "Marca": "FOX",
+    "Placa": "HYM7387",
+    "Cor": "Roxo"
+  },
+  {
+    "id": 4,
+    "Marca": "SPACEFOX",
+    "Placa": "HSL9771",
+    "Cor": "Preto"
+  },
+  {
+    "id": 5,
+    "Marca": "VOYAGE",
+    "Placa": "HSX9039",
+    "Cor": "Rosa"
+  },
+  {
+    "id": 6,
+    "Marca": "PALIO WEEKEND",
+    "Placa": "MIB9475",
+    "Cor": "Violeta"
+  },
+  {
+    "id": 7,
+    "Marca": "FOCUS SEDAN",
+    "Placa": "HUX4359",
+    "Cor": "Verde"
+  },
+  {
+    "id": 8,
+    "Marca": "FIESTA SEDAN",
+    "Placa": "KUS4589",
+    "Cor": "Azul"
+  },
+  {
+    "id": 9,
+    "Marca": "C4 PALLAS",
+    "Placa": "JYU5559",
+    "Cor": "Prata"
+  },
+  {
+    "Marca": "C4 PICASSO",
+    "id": 10,
+    "Placa": "AJV1729",
+    "Cor": "Preto Fosco"
+  },
+  {
+    "id": 11,
+    "Marca": "CLIO SEDAN",
+    "Placa": "LVH3441",
+    "Cor": "Branco"
+  },
+  {
+    "id": 12,
+    "Marca": "COROLLA FIELDER",
+    "Placa": "MVH2455",
+    "Cor": "Laranja"
+  },
+  {
+    "id": 13,
+    "Marca": "HILUX SW4",
+    "Placa": "JUQ2895",
+    "Cor": "Bege"
+  },
+  {
+    "id": 14,
+    "Marca": "ETIOS",
+    "Placa": "KLT9335",
+    "Cor": "Cinza"
+  },
+  {
+    "id": 15,
+    "Marca": "ONIX",
+    "Placa": "NCD4426",
+    "Cor": "Vermelho"
+  },
+  {
+    "id": 16,
+    "Marca": "HB20",
+    "Placa": "MUM8960",
+    "Cor": "Dourado"
+  },
+  {
+    "id": 17,
+    "Marca": "SANDERO GT",
+    "Placa": "MVI0077",
+    "Cor": "Laranja"
+  },
+  {
+    "id": 18,
+    "Marca": "C3 PICASSO",
+    "Placa": "MWG4491",
+    "Cor": "Prata"
+  },
+  {
+    "id": 19,
+    "Marca": "KA SPORT",
+    "Placa": "HYW6086",
+    "Cor": "Lilas"
+  },
+  {
+    "Marca": "COROLLA XRS",
+    "id": 20,
+    "Placa": "NEX4435",
+    "Cor": "Roxo"
+  },
+  {
+    "Marca": "ETIOS SEDAN",
+    "id": 21,
+    "Placa": "LWI2990",
+    "Cor": "Cinza"
+  },
+  {
+    "Marca": "HB20X",
+    "id": 22,
+    "Placa": "CGQ3959",
+    "Cor": "Marrom"
+  },
+  {
+    "Marca": "HB20S",
+    "id": 23,
+    "Placa": "MOE3948",
+    "Cor": "Verde"
+  },
+  {
+    "Marca": "C3 PLURIEL",
+    "id": 24,
+    "Placa": "MUN3439",
+    "Cor": "Vinho"
+  }
+]

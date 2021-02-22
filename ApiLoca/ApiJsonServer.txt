@@ -1,0 +1,11 @@
+
+Optei pelo uso da API Json server
+Link para instrução de como executar o teste
+dos dados do banco fake. 
+
+Observação: api identifica pelo id (em minusculo)
+
+https://www.fabricadecodigo.com/json-server/
+
+
+Testes na pasta Teste.
